@@ -1,5 +1,14 @@
+## Hello, I'm Nour Mohamed Derbeli
 
-<h2 align="left">Hello, I'm Nour Mohamed Derbeli, a dedicated learner at Holborton School with a keen interest in cybersecurity. Here's a snapshot of my skills and aspirations:<br><br>- 💻 Proficient in low-level programming and experienced in C.<br>- 🚀 Skilled in Bash scripting for automation and efficient task execution.<br>- 🌐 Knowledgeable in web development with HTML and CSS.<br>- 🔗 Familiar with networking concepts and protocols.<br>- 🛡️ Passionate about cybersecurity and committed to enhancing digital security.<br>- 📚 Actively pursuing knowledge and hands-on experience in ethical hacking and defensive strategies.</h2>
+I'm a dedicated learner at Holborton School with a keen interest in cybersecurity. Here's a snapshot of my skills and aspirations:
+
+- 💻 Proficient in low-level programming and experienced in C.
+- 🚀 Skilled in Bash scripting for automation and efficient task execution.
+- 🌐 Knowledgeable in web development with HTML and CSS.
+- 🔗 Familiar with networking concepts and protocols.
+- 🛡️ Passionate about cybersecurity and committed to enhancing digital security.
+- 📚 Actively pursuing knowledge and hands-on experience in ethical hacking and defensive strategies.
+
 
 ###
 
