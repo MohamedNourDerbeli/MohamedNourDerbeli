@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nour+Derbeli+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=I'm+Nour+Derbeli+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -14,7 +14,7 @@
 -   🛠️ **Tech Stack:** I work with **Linux**, **Bash Scripting**, **Wazuh**, **Graylog**, **Grafana**, and the entire **ELK/OpenSearch Stack**.
 -   🌱 **Currently Learning:** Expanding my skills in cloud security (AWS/Azure) and containerization (Docker/Kubernetes).
 -   🤝 **Looking to Collaborate:** Open to contributing to open-source projects related to cybersecurity, automation, and infrastructure as code.
--   📫 **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-nour-derbeli-972133249/ )!
+-   📫 **How to reach me:** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/md-nr-db/ )!
 
 ---
 
@@ -47,11 +47,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedNourDerbeli&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-  
-
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-nour-derbeli-972133249/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+ 
